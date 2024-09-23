@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Verwaltungsleistung": "Anmeldung einer Wohnung",
+        "Beschreibung": "Hier eine Wohnung anmelden",
+        "Checkliste": [
+        "Personalausweis",
+        "Meldebescheinigung",
+        "Lichtbild"
+        ],
+        "Link": "asdfghjkl",
+        "Kategorie": "Melderecht und Wohnangelegenheiten; Rund um Wohnen"
+    },
+    {
+        "id": 2,
+        "Verwaltungsleistung": "Abmeldung einer Wohnung",
+        "Beschreibung": "Hier eine Wohnung abmelden",
+        "Checkliste": [
+        "Personalausweis",
+        "Meldebescheinigung",
+        "Lichtbild"
+        ],
+        "Link": "asdfghjkl",
+        "Kategorie": "Melderecht und Wohnangelegenheiten; Rund um Wohnen"
+    }
+]

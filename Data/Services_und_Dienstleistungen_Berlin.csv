@@ -1,0 +1,101 @@
+﻿SID;Service;Link;Dokumente;Info;Voraussetzung;CID
+1;Anmeldung einer Wohnung;https://service.berlin.de/dienstleistung/120686/;"Identitätsnachweis; Beiblatt zur Anmeldung; Anmeldeformular; Personenstandsurkunde; Einzugsbestätigung des Wohngebers/Vermieters; ggf. Einzugsbestätigung des Wohnungsgebers/Vermieters für ukrainische Geflüchtete; ggf. die Einverständniserklärung des abwesenden Sorgeberechtigten und dessen Pass oder Personalausweis";Melden Sie sich innerhalb von 14 Tagen nach Ihrem Einzug bei Ihrer Meldebehörde an, wenn Sie innerhalb der Stadt in eine neue Wohnung umgezogen sind oder Sie aus einer anderen Gemeinde in Deutschland neu nach Berlin gezogen sind oder Sie aus dem Ausland nach Berlin gezogen sind. Nach Ihrer Anmeldung erhalten Sie eine Meldebestätigung.;Sie können sich nur vor Ort anmelden oder sich durch eine andere Person vor Ort vertreten lassen. Dafür müssen Sie der anderen Person eine Vollmacht und das ausgefüllte Anmelde-Formular mitgeben. Dieses Formular müssen Sie selbst unterschreiben. Das Anmelde-Formular finden Sie im Abschnitt „Formulare“;5
+2;Reisepass beantragen;;;;;6
+3;Personalausweis beantragen;;;;;6
+4;Führungszeugnis beantragen;;;;;7
+5;Einbürgerung - Verleihung der deutschen Staatsangehörigkeit beantragen;;;;;6
+6;Verpflichtungserklärung abgeben;;;;;6
+7;Wohnberechtigungsschein (WBS) beantragen;;;;;5
+8;Meldebescheinigung beantragen;;;;;5
+9;Parkausweis für Anwohner beantragen, umschreiben oder Verlust melden;;;;;5
+10;Aufenthaltserlaubnis auf einen neuen Pass übertragen;;;;;1
+11;Abmeldung einer Wohnung;;;;;5
+12;Fahrerlaubnis - Umtausch eines alten Führerscheins in einen EU- Kartenführerschein beantragen;;;;;3
+13;Wohngeld - Mietzuschuss beantragen;;;;;5
+14;Fahrerlaubnis - Umschreibung einer ausländischen Fahrerlaubnis aus einem Nicht-EU/EWR-Land (Drittstaat/Anlage 11);;;;;3
+15;Niederlassungserlaubnis für Inhaber einer Blauen Karte EU;;;;;1
+16;Fahrerlaubnis - Ersterteilung beantragen;;;;;3
+17;Kraftfahrzeug - Umschreibung beantragen;;;;;5
+18;Gewerbe anmelden;;;;;5
+19;Fahrerlaubnis - Internationalen Führerschein beantragen;;;;;3
+20;Kita-G utschein beantragen;;;;;2
+21;Blaue Karte EU beantragen;;;;;1
+22;Belehrung nach dem Infektionsschutzgesetz - Bescheinigung;;;;;4
+23;G eburtsurkunde beantragen;;;;;2
+24;Reisepass beantragen (vorläufiger Reisepass);;;;;6
+25;Elterngeld beantragen;;;;;2
+26;Niederlassungserlaubnis (allgemein);;;;;1
+27;Kraftfahrzeugkennzeichen reservieren;;;;;5
+28;Schule - Ergänzende Förderung und Betreuung beantragen;;;;;2
+29;Kraftfahrzeug außer Betrieb setzen (Kfz abmelden);;;;;5
+30;Zulassung eines Fahrzeuges mit auswärtigem Kennzeichen mit Halterwechsel;;;;;5
+31;Kirchenaustritt erklären;;;;;7
+32;Beglaubigung von Kopien;;;;;7
+33;Aufenthaltserlaubnis zum Studium;;;;;1
+34;Fahrerlaubnis - Ersatzführerschein nach Verlust oder Diebstahl beantragen;;;;;3
+35;Personalausweis abholen;;;;;6
+36;Online-Ausweisfunktion (elD) nachträglich aktivieren;;;;;6
+37;Aufenthaltserlaubnis zum vorübergehenden Schutz für Geflüchtete aus der Ukraine beantragen;;;;;1
+38;Neufahrzeug anmelden;;;;;5
+39;Änderung/Wechsel der Hauptwohnung;;;;;5
+40;Fahrerlaubnis zur Fahrg astbeförderung (P-Schein) - Erteilung;;;;;3
+41;Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt-EU auf einen neuen Pass übertragen;;;;;1
+42;Zulassung eines außer Betrieb gesetzten Fahrzeuges mit Berliner Kennzeichen auf einen anderen Halter;;;;;5
+43;Umschreibung eines zugelassenen Fahrzeuges mit Berliner Kennzeichen auf einen anderen Halter;;;;;5
+44;Fiktionsbescheinigung;;;;;6
+45;Personalausweis vorläufig beantragen;;;;;6
+46;Online-Ausweisfunktion (elD) - PIN ändern / neu setzen;;;;;6
+47;Fahrerlaubnis - Kartenführerschein umtauschen;;;;;3
+48;Einschulungsuntersuchung;;;;;2
+49;Niederlassungserlaubnis für Fachkräfte;;;;;1
+50;Aufenthaltserlaubnis für Ehepartner, Eltern und Kinder von deutschen Staatsangehörigen;;;;;1
+51;Zulassung eines aus dem EU-Ausland / EWR eingeführten Gebrauchtfahrzeuges;;;;;5
+52;Eheschließung (ohne Auslandsbeteiligung) anmelden;;;;;8
+53;Fahrerlaubnis - Neuerteilung beantragen;;;;;3
+54;Berechtigungsnachweis Berlin-Ticket S beantragen;;;;;8
+55;Fahrerlaubnis - Umschreibung einer ausländischen Fahrerlaubnis aus einem EU-/EWR-Staat;;;;;3
+56;Aufenthaltserlaubnis für Fachkräfte mit akademischer Ausbildung;;;;;1
+57;Reisepass abholen;;;;;6
+58;Erbrecht - Ausschlagung der Erbschaft;;;;;7
+59;Grundsicherung im Alter und bei Erwerbsminderung;;;;;4
+60;Aufenthaltserlaubnis für Ehepartner von Ausländern;;;;;8
+61;Vaterschaftsanerkennung erklären;;;;;2
+62;Beratung und Untersuchung HIV und sexuell übertragbaren Krankheiten (STI);;;;;4
+63;Aufenthaltserlaubnis für im Bundesgebiet geborene Kinder - Erteilung;;;;;1
+64;Adressänderung in der Zulassungsbescheinigung Teil;;;;;5
+65;Beglaubigung von Urkunden für das Ausland (Apostille/Legalisation);;;;;7
+66;Beschäftigung - Wechsel des Arbeitgebers;;;;;8
+67;Niederlassungserlaubnis für Familienangehörige von Deutschen;;;;;1
+68;Fahrerlaubnis - Erweiterung beantragen;;;;;3
+69;Aufenthaltserlaubnis zur Arbeitsplatzsuche im Anschluss an einen Aufenthalt im Bundesgebiet;;;;;1
+70;Kraftfahrzeug ummelden - nach einem Umzug nach Berlin;;;;;5
+71;Melderegisterauskunft einholen;;;;;5
+72;Gewerbe abmelden;;;;;5
+73;Personalausweis - Verlust melden;;;;;6
+74;Fahrerlaubnis verlängern;;;;;3
+75;Reiseausweis - Neuausstellung;;;;;6
+76;Aufenthaltserlaubnis für Fachkräfte mit Berufsausbildung;;;;;1
+77;Aufenthaltserlaubnis zur freiberuflichen Tätigkeit - Erteilung;;;;;1
+78;Aufenthaltserlaubnis aus humanitären Gründen - Verlängerung;;;;;1
+79;G eburt eines Kindes melden;;;;;2
+80;Gewerbe ummelden;;;;;5
+81;Zulassungsbescheinigung Teil wegenVerlustoderDiebstahlersetzen;;;;;5
+82;Daueraufenthalt-EU - Erlaubnis beantragen;;;;;1
+83;Kraftfahrzeug - Kurzzeitkennzeichen beantragen;;;;;5
+84;Schwerbehindertenausweis;;;;;4
+85;Bescheinigung über die Aufenthaltsgestattung verlängern;;;;;1
+86;Bescheinigung in Steuersachen Ausstellung (ehemals steuerliche Unbedenklichkeitsbescheinigung);;;;;7
+87;Freibeträge für Kinder ab 1 8 Jahren (Besonderheiten);;;;;8
+88;Aufenthaltserlaubnis zum ChancenAufenthaltsrecht beantragen;;;;;1
+89;Leistungen nach dem Bildungs- und Teilhabepaket beantragen;;;;;4
+90;Fahrerlaubnis zur Fahrg astbeförderung (P-Schein) - Verlängerung beantragen;;;;;3
+91;Zwangsvollstreckung Pfändungsschutzkonto (P-Konto) Erweiterung des Pfändungsschutzes beantragen;;;;;7
+92;Hundehaltung - Hund steuerlich anmelden;;;;;8
+93;Aufenthaltserlaubnis für Ehepartner und Kinder von Inhabern einer Blauen Karte EU;;;;;1
+94;Fahrerlaubnis - Begleitetes Fahren mit 1 7;;;;;3
+95;Kinderfreibeträge - Allgemeine Informationen;;;;;8
+96;Rechtsangelegenheiten - Beratungshilfe beantragen;;;;;7
+97;Ferienwohnungsvermietung - Zeitweise Vermietung der Berliner Hauptwohnung oder Nebenwohnung beantragen;;;;;5
+98;Kita-G utschein - Betreuungsumfang erweitern;;;;;2
+99;Fundsachen - Verlorene Sachen zurückbekommen;;;;;8
+100;Ehefähigkeitszeugnis beantragen;;;;;8

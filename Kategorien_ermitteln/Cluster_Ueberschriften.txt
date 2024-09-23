@@ -1,0 +1,12 @@
+Cluster 0: Aufenthalt & Familienleistungen
+Cluster 1: Eheschließung & Familienangelegenheiten
+Cluster 2: Führerschein & Zulassungsdienste
+Cluster 3: Registrierung & Bescheinigungen
+Cluster 4: Fahrzeugregistrierung & Änderungen
+Cluster 5: Dokumente & Rückgewinnungsdienste
+Cluster 6: Gewerbe & Kinderbetreuungsdienste
+Cluster 7: Einwanderung & Aufenthaltsdienste
+Cluster 8: Gewerbeabmeldung & Anfragen
+Cluster 9: Arbeits- & Berufserlaubnisse
+Cluster 10: Fahrzeugimport & Registrierung
+Cluster 11: Personalausweis & Wohnangelegenheiten
